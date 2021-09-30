@@ -1,5 +1,5 @@
 # PythonUtilities
-Classes and Functions that are utils in many projects
+Classes and Functions that are useful in many projects
 
 # Snake Case: snake_case_refactor
 Function that converts strings with uppercase letters to snake case(Need caution in usage)
